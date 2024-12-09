@@ -1,0 +1,14 @@
+Credit card fraud detection using linear regression involves analyzing transaction data
+to identify patterns and predict fraudulent activity. 
+By training a linear regression model on historical transaction data,
+we can detect anomalies by examining deviations from expected behavior.
+The model helps flag suspicious transactions based on features such as transaction amount, frequency, and location.
+This approach, though simple, can be an effective first step in developing a fraud detection system, 
+which can later be enhanced with more complex algorithms.
+
+Important libraries
+numpy
+pandas
+scikit
+matplotlib
+seaborn
